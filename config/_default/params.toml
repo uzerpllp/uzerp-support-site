@@ -1,26 +1,26 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "uzERP Support"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+titleAddition = "Help and Documentation"
+description = "uzERP is a suite of business software that delivers big company functionality on a small company budget, including accounting, stock, manufacturing and more."
 
 ## Open Graph + Twitter Cards
 images = ["doks.png"]
-twitterSite = "henkverlinde"
-twitterCreator = "henkverlinde"
-facebookAuthor = "verlinde.henk"
-facebookPublisher = "verlinde.henk"
-ogLocale = "en_US"
+twitterSite = "uzerp"
+twitterCreator = "uzerp"
+facebookAuthor = ""
+facebookPublisher = ""
+ogLocale = "en_GB"
 
 ## JSON-LD
 schemaType = "Organization"
 schemaLogo = "logo-doks.png"
-schemaTwitter = "https://twitter.com/henkverlinde"
-schemaLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaGitHub = "https://github.com/h-enk"
-schemaSection = "blog"
+schemaTwitter = "https://twitter.com/uzerp"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/uzerpllp"
+schemaSection = ""
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
@@ -36,7 +36,7 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "&copy; 2021 uzERP LLP, all rights reserved - powered by <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Alert
 alert = false
