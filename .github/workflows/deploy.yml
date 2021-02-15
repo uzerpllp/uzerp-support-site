@@ -1,0 +1,38 @@
+name: Deploy uzERP Website
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '0 3 * * *'
+
+jobs:
+  build:
+    name: Build and Deploy
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        name: id_rsa
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Install nodejs
+        uses: actions/setup-node@v1
+    
+    - name: Install node packages
+        run: npm install
+
+    - name: Build
+      run: npm run build
+
+    - name: Deploy
+      run: rsync --delete -rvzh ./public/ git@uzerp.default.uzerp.uk0.bigv.io:/var/www/html/support.uzerp.com/
