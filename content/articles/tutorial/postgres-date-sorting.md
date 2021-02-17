@@ -7,7 +7,7 @@ lastmod: 2021-02-17T15:34:49Z
 draft: false
 weight: 50
 images: ["postgres-date-sorting.jpg"]
-contributors: [Maryn Shiner]
+contributors: [Martyn Shiner]
 ---
 
 This looks a bit complicated, but the date_part - date_part('year',

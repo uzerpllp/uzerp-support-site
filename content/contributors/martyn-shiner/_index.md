@@ -1,5 +1,5 @@
 ---
-title: "Martyn J Shiner"
+title: "Martyn Shiner"
 description: "Consultant"
 images: []
 ---

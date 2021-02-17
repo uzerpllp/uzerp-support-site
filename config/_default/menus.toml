@@ -6,7 +6,7 @@
 [[main]]
   name = "Contribute"
   weight = 20
-  url = "/contribute/howtocontribute"
+  url = "/contribute/"
 
 [[main]]
   name = "Articles"
