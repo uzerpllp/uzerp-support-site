@@ -2,8 +2,6 @@
 title = "Contacts"
 +++
 
-# Contacts
-
 The Contacts module is where information about your business partners is stored
 
 * [[Accounts]] - used to keep track of Customers and Suppliers details

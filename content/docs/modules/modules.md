@@ -14,33 +14,32 @@ toc: true
 ---
 ## Standard Modules
 
-
-### [Contacts](contacts)
+### [Contacts](/docs/modules/contacts)
 
 * Companies
 * People
 * Leads
 
-### CRM (crm)
+### [CRM](/docs/modules/crm)
 
 * Opportunities
 * Marketing
 * Activities
 * Campaigns
 
-### Project Management (projects)
+### [Project Management](/docs/modules/projects)
 
 * Project Management
 * Tasks
 * Resources
 
-### [Manufacturing](manufacturing)
+### [Manufacturing](/docs/modules/manufacturing)
 * Works Orders
 * Stock
 * Warehousing
 * Production Recording
 
-### [Logistics](logistics)
+### [Logistics](/docs/modules/logistics)
 * Purchasing Orders
 * Goods Received
 * Purchase Invoice Register
@@ -48,7 +47,7 @@ toc: true
 * Despatch
 * Sales Invoice Register
 
-### [Accounts (Financial ledgers)](accounts)
+### [Accounts (Financial ledgers)](/docs/modules/accounts)
 * Asset Register
 * Costing
 * Cash Book

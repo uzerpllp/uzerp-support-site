@@ -1,7 +1,5 @@
 +++
-title ="Projects"
-chapter = true
-weight = 20
+title ="Project Management"
 +++
 
 The Project management section the main menu contains all of uzERP's project management functionality.

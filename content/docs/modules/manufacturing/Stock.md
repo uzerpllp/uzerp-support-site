@@ -2,7 +2,7 @@
 title = "Stock"
 +++
 
-*Please see the [Stock How To](/faq/stock) for some answers to common questions.*
+*Please see the [Stock How To](/docs/faq/stock) for some answers to common questions.*
 
 ## Introduction
 
@@ -11,7 +11,7 @@ The stock (inventory) module can be used to track all aspects of your organisati
 In some senses the Stock system is the heart of the commercial system if you are a manufacturer or wholesaler as every aspect of the business will be related back to a stock item is some way. The stock system will hold:
 
 * Item master details
-* Item balances across [warehouses/locations/bins]({{< relref "manufacturing.md#warehouse-management" >}})
+* Item balances across [warehouses/locations/bins]()
 * [Stock Transactions](#stock-transactions)
 * Units of measure (e.g. how may packs in a case)
 * Product structures and routes for manufactured and sub-contracted items
