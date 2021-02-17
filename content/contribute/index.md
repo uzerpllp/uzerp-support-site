@@ -15,9 +15,9 @@ There are many ways to contribute to uzERP... pull requests from developers are 
 
 If you want to get involved in developing uzERP [The GitHub Repo](https://github.com/uzerpllp/uzerp) is a good place to start
 
-We've set up a containerized development version of uzERP to get you up and running quickly without having to spin up a virtual machine or install on a hosting provider - go [here](/contribute/cli) for more information.
+We've set up a containerized development version of uzERP to get you up and running quickly without having to spin up a virtual machine or install on a hosting provider - go [here](/articles/development-cli/) for more information.
 
-There is a [developer's page](/contribute/dev-info) that will be updated regularly and can serve as a jumping off point for more information plus technical articles will be posted on this site under [Articles](/articles) on the top menu.
+There is a [developer's page](/articles/technical/) that will be updated regularly and can serve as a jumping off point for more information plus technical articles will be posted on this site under [Articles](/articles) on the top menu.
 
 ## Create an issue
 
