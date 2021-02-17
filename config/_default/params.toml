@@ -6,8 +6,11 @@ titleSeparator = "-"
 titleAddition = "Help and Documentation"
 description = "uzERP is a suite of business software that delivers big company functionality on a small company budget, including accounting, stock, manufacturing and more."
 
+logo = "images/logo.png"
+logo_small = "images/logo.png"
+
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = ["containers.png"]
 twitterSite = "uzerp"
 twitterCreator = "uzerp"
 facebookAuthor = ""
@@ -16,7 +19,7 @@ ogLocale = "en_GB"
 
 ## JSON-LD
 schemaType = "Organization"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo-uzerp.png"
 schemaTwitter = "https://twitter.com/uzerp"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/uzerpllp"
