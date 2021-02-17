@@ -1,13 +1,41 @@
 [[main]]
-  name = "What is uzERP?"
-  url = "https://www.uzerp.com"
-  weight = 10
-
-[[main]]
-  name = "Docs"
-  url = "https://doc.uzerp.com"
+  name = "Documentation"
+  url = "docs/getting-started/introduction"
   weight = 15
 
+[[main]]
+  name = "Contribute"
+  weight = 20
+  url = "/contribute/howtocontribute"
+
+[[main]]
+  name = "Articles"
+  weight = 30
+  url = "/articles"
+
+[[docs]]
+  name = "Getting Started"
+  weight = 10
+  identifier = "getting-started"
+  url = "/docs/getting-started/"
+
+[[docs]]
+  name = "Post Install Setup"
+  weight = 20
+  identifier = "setup"
+  url = "/docs/setup/"
+
+[[docs]]
+  name = "Modules"
+  weight = 30
+  identifier = "modules"
+  url = "/docs/modules/"
+
+[[docs]]
+  name = "FAQ"
+  weight = 40
+  identifier = "faq"
+  url = "/docs/faq/"
 
 [[social]]
   name = "Twitter"
@@ -22,7 +50,12 @@
   post = "v0.1.0"
   weight = 20
 
-# [[footer]]
-#   name = "Privacy"
-#   url = "/privacy-policy/"
-#   weight = 10
+[[footer]]
+   name = "uzERP Homepage"
+   url = "http://uzerp.com"
+   weight = 10
+
+[[footer]]
+   name = "Contributors"
+   url = "/contributors"
+   weight = 20
