@@ -8,9 +8,6 @@ languageCode = "en-GB"
 paginate = 7
 rssLimit = 10
 
-# Added this to get something on homepage
-title = "Welcome to the uzERP Support Site"
-
 # add redirects/headers
 [outputs]
 home = ["HTML", "RSS", "REDIRECTS", "HEADERS"]
