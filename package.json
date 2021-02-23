@@ -28,7 +28,7 @@
     "env": "env"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.16",
+    "@babel/cli": "^7.13.0",
     "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.16",
     "@fullhuman/postcss-purgecss": "^4.0",
