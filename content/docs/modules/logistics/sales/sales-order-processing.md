@@ -1,6 +1,7 @@
-+++
-title = "Sales Order Processing"
-+++
+---
+title: Sales Order Processing
+weight: 540
+---
 
 Please see the [[Sales Order Processing How To|How-To/Sales-Orders]] for some answers to common questions.
 

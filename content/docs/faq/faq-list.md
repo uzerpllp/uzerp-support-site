@@ -9,13 +9,13 @@ images: []
 menu: 
   docs:
     parent: "faq"
-weight: 1
+weight: 1001
 toc: true
 ---
 
 The pages below contain answers to frequently asked questions and some useful tips and tricks by module:
 
-#### General
+### General
 
 * [Common Questions](/docs/faq/questions)
 * [Dashboards and User Preferences](/docs/faq/dashboard)

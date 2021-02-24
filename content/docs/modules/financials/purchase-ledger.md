@@ -1,6 +1,7 @@
-+++
-title = "Purchase Ledger"
-+++
+---
+title: Purchase Ledger
+weight: 640
+---
 
 The Purchase Ledger is used to record details of financial transactions between your company and your suppliers. With it you can record supplier invoices and control their payment.
 

@@ -1,6 +1,7 @@
-+++
-title = "Stock"
-+++
+---
+title: Stock
+weight: 420
+---
 
 *Please see the [Stock How To](/docs/faq/stock) for some answers to common questions.*
 

@@ -1,6 +1,7 @@
-+++
-title = "Contacts"
-+++
+---
+title: The Contacts Module
+weight: 200
+---
 
 The Contacts module is where information about your business partners is stored
 

@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "modules"
-weight: 10
+weight: 199
 toc: true
 ---
 ## Standard Modules
@@ -36,18 +36,18 @@ toc: true
 ### [Manufacturing](/docs/modules/manufacturing)
 * Works Orders
 * Stock
-* Warehousing
 * Production Recording
 
 ### [Logistics](/docs/modules/logistics)
-* Purchasing Orders
+* Warehousing
+* Purchase Orders
 * Goods Received
 * Purchase Invoice Register
 * Sales Order Processing
 * Despatch
 * Sales Invoice Register
 
-### [Accounts (Financial ledgers)](/docs/modules/accounts)
+### [Accounts (Financial ledgers)](/docs/modules/financials)
 * Asset Register
 * Costing
 * Cash Book

@@ -1,6 +1,7 @@
-+++
-title = "How to create a stock map"
-+++
+---
+title: How to create a stock map
+weight: 425
+---
 
 When setting up the warehouse management system it is particularly important to create a stock map showing Warehouses and Locations, the Actions that generate the stock movements and how these are to be handled and the movement types between the locations associated with each action.
 

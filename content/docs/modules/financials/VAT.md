@@ -1,5 +1,6 @@
 ---
 title: "VAT Module"
+weight: 670
 ---
 ## VAT Returns
 

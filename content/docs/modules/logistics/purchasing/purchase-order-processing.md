@@ -1,6 +1,7 @@
-+++
-title = "Purchasing Order Processing"
-+++
+---
+title: Purchasing Order Processing
+weight: 510
+---
 
 Purchase Order Processing allows for the management of supplier purchase orders for both goods and services.
 

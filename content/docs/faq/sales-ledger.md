@@ -1,11 +1,12 @@
 ---
-title: "Sales Ledger"
+title: "FAQ - Sales Ledger"
 description: ""
 lead: ""
 date: 2021-02-16T14:48:25Z
 lastmod: 2021-02-16T14:48:25Z
 draft: false
 images: []
+weight: 1560
 toc: true
 ---
 

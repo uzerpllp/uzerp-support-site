@@ -1,6 +1,7 @@
-+++
-title = "Works Orders"
-+++
+---
+title: Works Orders
+weight: 410
+---
 
 Works orders are used to drive the manufacturing process and are crucial to the demand planning and shop floor data capture parts of the system. Works order information can be accessed from the Manufacturing -> Works Orders menu option. The Manufacturing module home page has the following uzLETs for managing works orders
 

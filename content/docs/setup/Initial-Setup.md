@@ -9,7 +9,7 @@ images: []
 menu: 
   docs:
     parent: "setup"
-weight: 10
+weight: 100
 toc: true
 ---
 

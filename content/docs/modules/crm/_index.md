@@ -1,6 +1,7 @@
-+++
-title = "CRM"
-+++
+---
+title: "Customer Relationship Management"
+weight: 200
+---
 
 ### Opportunities/Activities
 

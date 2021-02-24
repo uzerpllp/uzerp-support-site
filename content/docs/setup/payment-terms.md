@@ -1,6 +1,7 @@
-+++
-title = "Payment Terms"
-+++
+---
+title: Payment Terms
+weight: 107
+---
 
 Payments terms are used in the sales and purchasing systems to determine when transactions are due for payment and whether discount should be applied.
 

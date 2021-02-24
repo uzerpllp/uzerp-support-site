@@ -1,6 +1,7 @@
-+++
-title = "Leads"
-+++
+---
+title: "Leads"
+weight: 220
+---
 
 The Leads section of the [[Contacts|User Manual/Modules/Contacts]] module stores information about sales prospects for use in the [[CRM]] process.
 

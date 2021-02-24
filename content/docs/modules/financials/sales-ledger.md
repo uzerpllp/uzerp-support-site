@@ -1,6 +1,7 @@
-+++
-title = "Sales Ledger"
-+++
+---
+title: Sales Ledger
+weight: 650
+---
 
 The uzERP Sales Ledger allows you to create and maintain information about your customers. Invoices are entered in the [Sales Invoice Register](Sales Invoice Register) system when you sell goods and services and cash receipts and other credit transactions can be allocated against the invoices.
 

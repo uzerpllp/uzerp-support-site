@@ -1,6 +1,7 @@
-+++
-title = "Purchase Ledger Batch Payment"
-+++
+---
+title: Purchase Ledger Batch Payment
+weight: 641
+---
 
 
 <<NeedsReview()>>

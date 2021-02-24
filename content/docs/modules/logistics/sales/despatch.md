@@ -1,6 +1,7 @@
-+++
-title = "Despatch"
-+++
+---
+title: Despatch
+weight: 550
+---
 
 Manages the despatching function and warehouse operations.
 

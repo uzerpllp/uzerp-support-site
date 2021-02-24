@@ -1,6 +1,7 @@
-+++
-title = "Warehousing"
-+++
+---
+title: Warehousing
+weight: 505
+---
 
 Th uzERP warehousing module helps keep track of stock (inventory) by controlling where things are located.
 

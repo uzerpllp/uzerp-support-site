@@ -1,6 +1,7 @@
-+++
-title = "Backflushing"
-+++
+---
+title: Backflushing
+weight: 415
+---
 
 Backflush refers to a special type of stock transaction. When backflushing is in use, uzERP can be made to assume that raw materials or components have been used because a particular action in the stock system has taken place. This assumption is based on the product structure for the item being produced.
 

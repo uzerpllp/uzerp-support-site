@@ -1,6 +1,7 @@
-+++
-title = "Purchase Invoice Register"
-+++
+---
+title: Purchase Invoice Register
+weight: 530
+---
 
 Purchase Ledger Invoices are entered from within the Logisitics area. Going to **Logisitics > Purchase Invoicing > Purchase Invoices** shows a list of Supplier invoices and their current status along with processing actions in the sidebar.
 
