@@ -3,7 +3,7 @@ title: "Requirements"
 description: ""
 lead: ""
 date: 2021-02-16T16:20:27Z
-lastmod: 2021-02-16T16:20:27Z
+lastmod: 2021-03-08T16:38:00Z
 draft: false
 images: [getting-started]
 menu: 
@@ -17,20 +17,20 @@ toc: true
 These package names are from Ubuntu, other distributions may use different names.
 
 - apache2 *(Using either mod_php or proxying to php-fpm or other fcgi. Alternatively Nginx/php-fpm)*
-- postgres (version 9.3)
+- postgres (version 10.x)
 - memcached *(Not strictly required, because uzERP will use the local disk if memcached is not installed, but highly recommended)*
 - fop
-- php (version 5.6)
+- php (version 7.x)
 - php-memcached
 - php-pgsql
 - php-bcmath
 - php-xml
-- pdftk
+- qpdf
 
 ## Optional OS Packages
 
-- cups (cups print server, required for direct [printing](/Setup/Initial-Setup#printing) to printers)
-- postfix/Exim ([mail](/Setup/Initial-Setup#setting-up-email) MTA for sending documents from uzERP, e.g. Invoices, Purchase Orders)
+- cups (cups print server, required for direct printing to printers)
+- postfix/Exim email MTA for sending documents from uzERP, e.g. Invoices, Purchase Orders)
 - ghostscript (PDF thumbnails use the 'convert' utility)
 - php-curl (used by sentry logging)
 
