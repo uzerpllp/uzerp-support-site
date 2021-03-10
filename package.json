@@ -42,7 +42,7 @@
     "lazysizes": "^5.3",
     "markdownlint-cli": "^0.27",
     "netlify-lambda": "^2.0.3",
-    "postcss": "^8.2.7",
+    "postcss": "^8.2.8",
     "postcss-cli": "^8.3",
     "purgecss-whitelister": "^2.4",
     "rimraf": "^3.0",
